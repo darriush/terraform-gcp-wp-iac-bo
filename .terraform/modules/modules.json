@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"dns-public-zone","Source":"registry.terraform.io/terraform-google-modules/cloud-dns/google","Version":"4.1.0","Dir":".terraform/modules/dns-public-zone"},{"Key":"","Source":"","Dir":"."},{"Key":"release","Source":"registry.terraform.io/terraform-module/release/helm","Version":"2.7.0","Dir":".terraform/modules/release"}]}
